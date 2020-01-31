@@ -1,1 +1,2 @@
-# LZKEA-CSC3210
+# Project - A1
+Logan Luque, Zejneb Al-Aboudy, Kemper Schlaak, Emilio Enriquez, Ashlynne Matta 
